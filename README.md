@@ -2,13 +2,7 @@
 
 This is an Android application that allows users to calculate the volume of various 3D shapes. The application displays four different shapes in a grid view, and when a user clicks on a shape, they are taken to a new activity where they can input dimensions and calculate the volume of the selected shape.
 
-## Screenshots
 
-![Main Screen](screenshots/main_screen.png)
-![Sphere Calculation](screenshots/sphere_screen.png)
-![Cylinder Calculation](screenshots/cylinder_screen.png)
-![Cube Calculation](screenshots/cube_screen.png)
-![Prism Calculation](screenshots/prism_screen.png)
 
 ## Features
 
